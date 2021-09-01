@@ -22,3 +22,8 @@
 - [Avance 1](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
 - [Avance 2]()
 - [Avance 3]()
+
+## Avances PIA (OPCIÓN 2)
+- [Avance 1]()
+- [Avance 2]()
+- [Avance 3]()
