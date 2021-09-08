@@ -8,7 +8,7 @@
 
 
 ## Fase_II
-
+- [Presentación series de tiempo Equipo 4](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4.pdf)
 
 
 
