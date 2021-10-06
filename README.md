@@ -11,8 +11,7 @@
 - [Presentación series de tiempo Equipo 4](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4.pdf)
 - [Presentación series de tiempo Equipo 4 (Preguntas con respuesta)](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4%20(respuestas%20a%20preguntas).pdf)
 - [Código presentación series de tiempo](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Programa_Presentaci%C3%B3n.ipynb) 
-- [Practica visualización de datos. Base de datos 1](https://github.com/mayorga09/Mineria_de_Datos/blob/main/Practica_II_Base1.ipynb)
-- [Practica visualización de datos. Base de datos 2](https://github.com/normaisabel/Mineria-de-datos/blob/main/Visualizacion_Base2.ipynb)
+- [Practica visualización de datos.](https://github.com/normaisabel/Mineria-de-datos/blob/main/Visualizacion_Base2.ipynb)
 
 
 ## Fase_III
