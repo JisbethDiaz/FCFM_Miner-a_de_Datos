@@ -10,7 +10,7 @@
 ## Fase_II
 - [Presentación series de tiempo Equipo 4](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4.pdf)
 - [Presentación series de tiempo Equipo 4 (Preguntas con respuesta)](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Presentaci%C3%B3n_SeriesdeTiempo_Equipo4%20(respuestas%20a%20preguntas).pdf)
-
+- [Practica visualización de datos]()
 
 
 ## Fase_III
@@ -25,5 +25,5 @@
 
 ## Avances PIA (OPCIÓN 2)
 - [Avance 1](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance1_PIA(Op_2)_Equipo4.ipynb)
-- [Avance 2]()
+- [Avance 2](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4.ipynb)
 - [Avance 3]()
