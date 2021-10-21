@@ -16,14 +16,12 @@
 
 
 ## Fase_III
-
-
+- [PIA TERMINADO](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/PIA_Equipo4.ipynb)
 
 
 ## Avances PIA
 - [Avance 1](https://github.com/LindaRequenes/Mineria_de_datos/blob/main/Avance1_PIA_Equipo4.ipynb)
 - [Avance 2](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance2_PIA_Equipo4.ipynb)
-- [Avance 3]()
 
 ## Avances PIA (OPCIÓN 2)
 - [Avance 1](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/Avance1_PIA(Op_2)_Equipo4.ipynb)
