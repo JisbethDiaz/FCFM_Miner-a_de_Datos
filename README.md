@@ -17,6 +17,7 @@
 
 ## Fase_III
 - [PIA TERMINADO](https://github.com/JisbethDiaz/FCFM_Miner-a_de_Datos/blob/Miner%C3%ADa-de-datos/PIA_Equipo4.ipynb)
+- [Poster](https://github.com/normaisabel/Mineria-de-datos/blob/main/P%C3%B3ster_Equipo4.pdf)
 
 
 ## Avances PIA
